@@ -1,2 +1,0 @@
-# GoogleLeNet
-GoogleLeNet
